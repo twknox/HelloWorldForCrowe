@@ -1,0 +1,9 @@
+C:\projects\HelloWorld\Output\obj\Debug\netstandard2.0\Output.csprojAssemblyReference.cache
+C:\projects\HelloWorld\Output\obj\Debug\netstandard2.0\Output.csproj.CoreCompileInputs.cache
+C:\projects\HelloWorld\Output\obj\Debug\netstandard2.0\Output.AssemblyInfoInputs.cache
+C:\projects\HelloWorld\Output\obj\Debug\netstandard2.0\Output.AssemblyInfo.cs
+C:\projects\HelloWorld\Output\bin\Debug\netstandard2.0\Output.deps.json
+C:\projects\HelloWorld\Output\bin\Debug\netstandard2.0\Output.dll
+C:\projects\HelloWorld\Output\bin\Debug\netstandard2.0\Output.pdb
+C:\projects\HelloWorld\Output\obj\Debug\netstandard2.0\Output.dll
+C:\projects\HelloWorld\Output\obj\Debug\netstandard2.0\Output.pdb
